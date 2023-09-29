@@ -1,0 +1,15 @@
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/bin/Debug/net6.0/TicTacToeGame
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/bin/Debug/net6.0/TicTacToeGame.deps.json
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/bin/Debug/net6.0/TicTacToeGame.runtimeconfig.json
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/bin/Debug/net6.0/TicTacToeGame.dll
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/bin/Debug/net6.0/TicTacToeGame.pdb
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/obj/Debug/net6.0/TicTacToeGame.csproj.AssemblyReference.cache
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/obj/Debug/net6.0/TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/obj/Debug/net6.0/TicTacToeGame.AssemblyInfoInputs.cache
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/obj/Debug/net6.0/TicTacToeGame.AssemblyInfo.cs
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/obj/Debug/net6.0/TicTacToeGame.csproj.CoreCompileInputs.cache
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/obj/Debug/net6.0/TicTacToeGame.dll
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/obj/Debug/net6.0/refint/TicTacToeGame.dll
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/obj/Debug/net6.0/TicTacToeGame.pdb
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/obj/Debug/net6.0/TicTacToeGame.genruntimeconfig.cache
+/Users/trevorjacques/Desktop/Applied Programming/Sprint1/TicTacToeGame/obj/Debug/net6.0/ref/TicTacToeGame.dll
